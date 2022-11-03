@@ -1,3 +1,23 @@
 .navbar-custom {
     background-color: #d5bdaf;
 }
+
+.btn{
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 4px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.search{
+    border-color: #884f12;
+    color:  black;
+}
+
+.search:hover {
+    background-color: rgb(178, 114, 114);
+    color: white;
+  }
